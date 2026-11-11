@@ -51,8 +51,15 @@ Python, pandas, scikit-learn, Jupyter Notebook, data cleaning, exploratory data 
 The dataset may not represent all U.S. college graduates. High-ROI graduates account for only 25% of observations, and the findings should not be interpreted as causal relationships. External validation would be needed before real-world use.
 
 ## Project Files
-- [Jupyter Notebook](College_Graduate_ROI_Analysis.ipynb) — complete Python analysis and model evaluation.
+- [Jupyter Notebook](notebooks/College_Graduate_ROI_Analysis.ipynb) — complete Python analysis and model evaluation.
 
 ## Attribution
 Group 3 academic Machine Learning project, CISA 5381. This repository presents the group's work for portfolio purposes; individual contributions should be distinguished from collaborative work.
 
+## Dataset Source
+
+The dataset, *College Major ROI*, was obtained from Kaggle and contains 30,000 synthetic graduate records calibrated using published college return-on-investment research.
+
+**License:** Creative Commons CC0 1.0 (Public Domain).
+
+The dataset is included in the `data` folder for reproducibility. Results describe patterns within synthetic data and should not be interpreted as verified outcomes for actual U.S. college graduates.
