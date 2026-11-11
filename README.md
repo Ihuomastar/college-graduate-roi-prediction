@@ -66,3 +66,25 @@ The dataset, *College Major ROI*, was obtained from Kaggle and contains 30,000 s
 **License:** Creative Commons CC0 1.0 (Public Domain).
 
 The dataset is included in the `data` folder for reproducibility. Results describe patterns within synthetic data and should not be interpreted as verified outcomes for actual U.S. college graduates.
+
+## How to Run This Project
+
+1. Download the repository using **Code → Download ZIP** on GitHub.
+2. Extract the ZIP file to your computer.
+3. Open a terminal or Anaconda Prompt in the extracted repository folder.
+4. Install the required Python packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Start Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+6. Open `notebooks/College_Graduate_ROI_Analysis.ipynb`.
+7. Run the notebook cells in order to reproduce the analysis.
+
+The dataset is stored in `data/college_major_roi.csv`. The notebook uses the relative path `../data/college_major_roi.csv` when run from the `notebooks` directory.
