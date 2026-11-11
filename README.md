@@ -55,6 +55,16 @@ The dataset may not represent all U.S. college graduates. High-ROI graduates acc
 
 ## Attribution
 Group 3 academic Machine Learning project, CISA 5381. This repository presents the group's work for portfolio purposes; individual contributions should be distinguished from collaborative work.
+## Individual Contributions
+
+This project was completed collaboratively as part of Group 3 for CISA 5381 — Machine Learning.
+
+My contributions included:
+
+- **Business Understanding:** Helped define the business problem, research objectives, and the purpose of predicting high return on investment among college graduates.
+- **Jupyter Notebook Development:** Contributed to the initial stages of the Python notebook, helping establish the foundation for the group's machine learning analysis.
+
+The remaining project development, model evaluation, and conclusions represent the collaborative work of Group 3.
 
 ## Data Source
 **Dataset:** [College Major ROI](https://www.kaggle.com/datasets/sergionefedov/college-major-roi)
