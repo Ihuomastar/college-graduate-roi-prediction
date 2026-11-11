@@ -57,14 +57,17 @@ The dataset may not represent all U.S. college graduates. High-ROI graduates acc
 Group 3 academic Machine Learning project, CISA 5381. This repository presents the group's work for portfolio purposes; individual contributions should be distinguished from collaborative work.
 ## Individual Contributions
 
-This project was completed collaboratively as part of Group 3 for CISA 5381 — Machine Learning.
+This Machine Learning project was completed collaboratively as part of Group 3 for CISA 5381.
 
-My contributions included:
+My contributions focused on the initial stages of the Cross-Industry Standard Process for Data Mining (CRISP-DM) framework, including:
 
-- **Business Understanding:** Helped define the business problem, research objectives, and the purpose of predicting high return on investment among college graduates.
-- **Jupyter Notebook Development:** Contributed to the initial stages of the Python notebook, helping establish the foundation for the group's machine learning analysis.
+- **Business Understanding:** Defined the research problem and objectives for predicting high return on investment among U.S. college graduates.
+- **Data Understanding:** Examined the dataset's structure, variables, and data quality to support the analysis.
+- **Data Preparation:** Contributed to data cleaning and preparation in Python.
+- **Exploratory Data Analysis:** Explored patterns in graduate outcomes and educational characteristics to support the group's research questions.
+- **Jupyter Notebook Development:** Developed the initial sections of the notebook, establishing the analytical foundation for subsequent modeling.
 
-The remaining project development, model evaluation, and conclusions represent the collaborative work of Group 3.
+Group 3 completed model development, evaluation, and final conclusions collaboratively.
 
 ## Data Source
 **Dataset:** [College Major ROI](https://www.kaggle.com/datasets/sergionefedov/college-major-roi)
