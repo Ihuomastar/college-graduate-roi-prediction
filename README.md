@@ -1,9 +1,9 @@
 # Predicting High Return on Investment Among U.S. College Graduates
 
 ## Project Overview
-This machine learning classification project analyzes 30,000 U.S. college graduate records to predict whether a graduate belongs to the high-return-on-investment (ROI) category. Using Python, the project compares Decision Tree and K-Nearest Neighbors (KNN) classifiers to evaluate their ability to identify high-ROI graduates.
+This machine learning classification project analyzes 30,000 synthetic U.S. college graduate records to predict whether a graduate belongs to the high-return-on-investment (ROI) category. Using Python, the project compares Decision Tree and K-Nearest Neighbors (KNN) classifiers to evaluate their ability to identify high-ROI graduates.
 
-Developed as a Group 3 academic project for CISA 5381, following the CRISP-DM framework.
+The analysis follows the Cross-Industry Standard Process for Data Mining (CRISP-DM) framework and was developed as a Group 3 academic project for CISA 5381.
 
 ## Research Objectives
 - Predict high-ROI classification using graduate and educational characteristics.
